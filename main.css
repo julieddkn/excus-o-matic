@@ -34,4 +34,5 @@ button {
     font-family: 'Roboto Mono', monospace;
     font-size: .8rem;
     cursor: pointer;
+    color: black;
 }
